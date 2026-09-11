@@ -1,0 +1,14 @@
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\bin\Debug\net10.0\KT1_Algorithms.exe
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\bin\Debug\net10.0\KT1_Algorithms.deps.json
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\bin\Debug\net10.0\KT1_Algorithms.runtimeconfig.json
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\bin\Debug\net10.0\KT1_Algorithms.dll
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\bin\Debug\net10.0\KT1_Algorithms.pdb
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\KT1_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\KT1_Algorithms.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\KT1_Algorithms.AssemblyInfo.cs
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\KT1_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\KT1_Algorithms.dll
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\refint\KT1_Algorithms.dll
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\KT1_Algorithms.pdb
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\KT1_Algorithms.genruntimeconfig.cache
+C:\Users\Александр\Documents\4year1sem\Algorithms\KT1_Algorithms\KT1_Algorithms\obj\Debug\net10.0\ref\KT1_Algorithms.dll
