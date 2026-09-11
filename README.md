@@ -286,4 +286,4 @@ namespace KT1_Algorithms
         }
     }
 }
-```csharp
+```
